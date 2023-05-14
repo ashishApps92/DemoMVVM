@@ -1,0 +1,3 @@
+ashish.apps.demoandroidcomponent.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
